@@ -62,3 +62,16 @@ The application will be available at `http://localhost:8080`
 3. Commit your changes
 4. Push to the branch
 5. Create a new Pull Request
+
+## Preview
+![Screenshot 1](images/Screenshot%202025-07-17%20220130.png)
+
+
+![Screenshot 2](images/Screenshot%202025-07-17%20220208.png)
+
+
+![Screenshot 3](images/Screenshot%202025-07-17%20220224.png)
+
+
+![Screenshot 4](images/Screenshot%202025-07-17%20220302.png)
+
